@@ -19,7 +19,7 @@
      - 5.0     
      - 4.4          
 
-   * - Amazon Linux 2023
+   * - Amazon Linux 2023.3
      - x86_64
      - Enterprise
      - |checkmark|
