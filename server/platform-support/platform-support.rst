@@ -749,5 +749,5 @@ operating system minor version is no longer supported by the vendor,
 MongoDB updates future MongoDB Server versions to the next supported
 operating system minor version. For more details, see:
 
-`MongoDB Platform Support
+`MongoDB Platform Support Improvements
 <https://www.mongodb.com/blog/post/announcing-mongodb-server-8-0-platform-support-improvements>`_.
