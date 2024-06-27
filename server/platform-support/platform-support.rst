@@ -19,7 +19,7 @@
      - 5.0     
      - 4.4          
 
-   * - Amazon Linux 2023.3 
+   * - Amazon Linux 2023
      - x86_64
      - Enterprise
      - |checkmark|
@@ -741,3 +741,13 @@
 
 .. [#oracle-support] On Oracle Linux, MongoDB only supports the Red Hat
    Compatible Kernel.
+
+Starting in MongoDB 8.0, new MongoDB Server versions (both major and
+minor) are released for the minimum supported minor version of the
+operating system as defined by the operating system vendor. After an
+operating system minor version is no longer supported by the vendor,
+MongoDB will update future MongoDB Server versions to the next supported
+operating system minor version. For more details, see:
+
+`MongoDB Platform Support
+<https://www.mongodb.com/blog/post/announcing-mongodb-server-8-0-platform-support-improvements>`_.
