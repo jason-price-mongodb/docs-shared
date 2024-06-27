@@ -742,12 +742,11 @@
 .. [#oracle-support] On Oracle Linux, MongoDB only supports the Red Hat
    Compatible Kernel.
 
-Starting in MongoDB 8.0, new MongoDB Server versions (both major and
-minor) are released for the minimum supported operating system minor
-version from the operating system vendor. After an operating
-system minor version is no longer supported by the vendor, MongoDB will
-update future MongoDB Server versions to the next supported operating
-system minor version. For more details, see:
+Starting in MongoDB 8.0, new MongoDB Server versions (major and minor)
+support the minimum operating system (OS) minor version as defined by
+the OS vendor. After an OS minor version is no longer supported by the
+OS vendor, MongoDB updates the MongoDB Server to support the next OS
+minor version. For details, see:
 
 `MongoDB Platform Support Improvements
 <https://www.mongodb.com/blog/post/announcing-mongodb-server-8-0-platform-support-improvements>`_.
