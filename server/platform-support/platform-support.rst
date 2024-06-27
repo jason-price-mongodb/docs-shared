@@ -746,7 +746,7 @@ Starting in MongoDB 8.0, new MongoDB Server versions (both major and
 minor) are released for the minimum supported minor version of the
 operating system as defined by the operating system vendor. After an
 operating system minor version is no longer supported by the vendor,
-MongoDB updates future MongoDB Server versions to the next supported
+MongoDB will update future MongoDB Server versions to the next supported
 operating system minor version. For more details, see:
 
 `MongoDB Platform Support Improvements
